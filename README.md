@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub!  
 
-<!--
-**200habib/200habib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello and welcome! You are always welcome here. 😊  
 
-Here are some ideas to get you started:
+💻 I am **El Habib**, a web developer passionate about technology.  
+🚀 Here, you will find **open-source components** that you can use in your projects or take inspiration from.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in **sharing knowledge and collaboration**, so feel free to explore, use, and contribute!  
+
+## 📫 Contact me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/el-habib-benaboud-193ab41b3)  
+
+Looking forward to connecting with you! 🚀  
